@@ -1,0 +1,84 @@
+﻿.MeuLindoMenu {
+    height: 48px;
+    max-width: 1366px;
+    width: 100%;
+    position: fixed;
+    margin: 0px 0px 0px 0px;
+    display: block;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.6);
+}
+
+
+.Logo {
+    background-image: url(../img/logo2.png);
+    background-repeat: no-repeat;
+    border: none !important;
+    background-size: 150px 18px;
+    height: 18px;
+    width: 150px;
+    margin: 4px 0 0 0;
+}
+
+.LogoPequeno {
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    border: none !important;
+    background-size: 36px 18px;
+    height: 18px;
+    width: 36px;
+    margin: 4px 0 0 0;
+}
+
+.Fundo {
+    height: 48px;
+    max-width: 1366px;
+    width: 100%;
+    background-color: #FFF;
+    float: left;
+    padding: 12px 0 0 12px;
+}
+
+.FundoPequeno {
+    height: 48px;
+    width: 60px;
+    background-color: #FFF;
+    float: left;
+    padding: 12px 0 0 12px;
+}
+
+.Titulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size: 64px;
+    color: #fff;
+    margin-top: -10px;
+    text-shadow: 1px 1px 1px #333;
+}
+
+.Frase {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size: 64px;
+    color: #fff;
+}
+
+.Ajuste01 {
+    background-color: transparent !important;
+    color: #FFF !important;
+}
+
+.Ajuste02 {
+    background-color: transparent !important;
+    color: #000 !important;
+    margin: 0px 0px 0px 0px !important;
+    z-index: 2 !important;
+}
+
+.divMap {
+    max-width: 945px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    height: 510px;
+}
