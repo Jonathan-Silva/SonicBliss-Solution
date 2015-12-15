@@ -190,6 +190,7 @@
     <Content Include="Content\img\logo.png" />
     <Content Include="Content\img\logo2.png" />
     <Content Include="Content\img\logo3.png" />
+    <Content Include="Content\img\logo_favicon.png" />
     <Content Include="Content\img\portfolio-1.jpg" />
     <Content Include="Content\img\portfolio-2.jpg" />
     <Content Include="Content\img\portfolio-3.jpg" />

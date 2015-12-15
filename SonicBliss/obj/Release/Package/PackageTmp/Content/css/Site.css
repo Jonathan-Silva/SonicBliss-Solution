@@ -1,6 +1,5 @@
 ﻿.MeuLindoMenu {
     height: 48px;
-    max-width: 1366px;
     width: 100%;
     position: fixed;
     margin: 0px 0px 0px 0px;
@@ -32,7 +31,6 @@
 
 .Fundo {
     height: 48px;
-    max-width: 1366px;
     width: 100%;
     background-color: #FFF;
     float: left;
